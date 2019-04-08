@@ -1,0 +1,23 @@
+{
+  "navigateToMiniProgramAppIdList": [
+    "wx18a2ac992306a5a4"
+  ],
+  "pages": [
+    "pages/index/index",
+    "pages/8th/8th",
+    "pages/9th/9th",
+    "pages/10th/10th",
+    "pages/11th/11th",
+    "pages/rank/rank",
+    "pages/IB/IB",
+    "pages/Agreement/Agreement",
+    "pages/scatter/index",
+    "pages/Settings/Settings"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "navigationBarTitleText": "input",
+    "navigationBarTextStyle": "black"
+  }
+}
